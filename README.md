@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello everyone 👋
+
+
+My name is Lior, and I'm excited to introduce myself as a software engineer currently in my final semester at BGU University, pursuing my Bachelor's degree in Computer Science.
+
+My passion for coding and software development has driven me towards constantly pushing the boundaries of what's possible and coming up with innovative solutions to everyday problems. I believe in leveraging technology to create a positive impact in the world, and I'm committed to using my skills to drive change.
 
 <!--
 **LiorLevi15/LiorLevi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
