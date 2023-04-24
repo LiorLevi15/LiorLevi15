@@ -8,7 +8,7 @@ My passion for coding and software development has driven me towards constantly 
 ###
 Experienced in:
 
-[![Java](Resources/Logos/java_100.png)][2] [![Java](Resources/Logos/java_100.png)][2] [![C++](Resources/Logos/c++_100.png)][4] [![C](Resources/Logos/c_100.png)]5] 
+[![Java](Resources/Logos/java_100.png)][2] [![Python](Resources/Logos/py_100.png)][3] [![C++](Resources/Logos/c++_100.png)][4] [![C](Resources/Logos/c_100.png)][5] 
 
 
 ### Reach me:
@@ -20,7 +20,6 @@ Experienced in:
 [3]: https://github.com/LiorLevi15/NLP-MINI-PROJECT
 [4]: https://github.com/LiorLevi15/3DAnimations_FP
 [5]: https://github.com/ThatGuyVanquish/ESPL
-[6]: 
 
 <!--
 **LiorLevi15/LiorLevi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
