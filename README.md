@@ -19,7 +19,7 @@ Experienced in:
 [2]: https://github.com/LiorLevi15/SPL-AS3
 [3]: https://github.com/LiorLevi15/NLP-MINI-PROJECT
 [4]: https://github.com/LiorLevi15/3DAnimations_FP
-[5]: https://github.com/ThatGuyVanquish/ESPL
+[5]: https://github.com/LiorLevi15/ESPL-LAB
 
 <!--
 **LiorLevi15/LiorLevi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
