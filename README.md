@@ -8,7 +8,7 @@ My passion for coding and software development has driven me towards constantly 
 ###
 Experienced in:
 
-[![Java](Resources/Logos/java_100.png)][2] [!Python](Resources/Logos/py_100.png)][3] [![C++](Resources/Logos/c++_100.png)][4] [![C](Resources/Logos/c_100.png)]5] 
+[![Java](Resources/Logos/java_100.png)][2] [![Python](Resources/Logos/py_100.png)][3] [![C++](Resources/Logos/c++_100.png)][4] [![C](Resources/Logos/c_100.png)]5] 
 
 
 ### Reach me:
