@@ -8,7 +8,7 @@ My passion for coding and software development has driven me towards constantly 
 ###
 Experienced in:
 
-[![Java](Resources/Logos/java_100.png)][2] [![C++](Resources/Logos/c++_100.png)][3] [![C](Resources/Logos/c_100.png)][4] 
+[![Java](Resources/Logos/java_100.png)][2] [!Python](Resources/Logos/py_100.png)][3] [![C++](Resources/Logos/c++_100.png)][4] [![C](Resources/Logos/c_100.png)]5] 
 
 
 ### Reach me:
@@ -17,9 +17,9 @@ Experienced in:
 
 [1]: https://www.linkedin.com/in/lior-levi96/
 [2]: https://github.com/LiorLevi15/SPL-AS3
-[3]: https://github.com/LiorLevi15/3DAnimations_FP
-[4]: https://github.com/ThatGuyVanquish/ESPL
-[5]: 
+[3]: https://github.com/LiorLevi15/NLP-MINI-PROJECT
+[4]: https://github.com/LiorLevi15/3DAnimations_FP
+[5]: https://github.com/ThatGuyVanquish/ESPL
 [6]: 
 
 <!--
